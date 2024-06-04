@@ -1,3 +1,3 @@
 # Proyecto 8: Compañía Móvil Megaline
-##Descripción del Proyecto
+##Descripción
 Este proyecto tiene como objetivo desarrollar y evaluar modelos de aprendizaje automático para predecir qué tipo de plan de teléfono móvil (Normal o Ultra) preferiría un cliente basado en su comportamiento de uso. Utilizando tres modelos diferentes: Árbol de Decisión, Bosque Aleatorio y Regresión Logística, buscamos proporcionar a la compañía de telecomunicaciones Megaline información útil para mejorar la satisfacción del cliente y optimizar los recursos empresariales.
